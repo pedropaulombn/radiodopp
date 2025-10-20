@@ -1,0 +1,192 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiodopp.shop" resolutions="1x,2x" timestamp="1760918964325">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_r_dio-do-p_-p_.css" crc="180569548" ref="contato:sobre:index"/>
+    <file name="nomq_preview_master_r_dio-do-p_-p_.css" crc="172153813" ref="contato:sobre:index"/>
+    <file name="contato.css" crc="194635968" ref="contato"/>
+    <file name="nomq_contato.css" crc="4278389999" ref="contato"/>
+    <file name="sobre.css" crc="166344425" ref="sobre"/>
+    <file name="nomq_sobre.css" crc="3858676171" ref="sobre"/>
+    <file name="index.css" crc="4124443290" ref="index"/>
+    <file name="nomq_index.css" crc="4188314635" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sobre:contato"/>
+    <file name="museutils.js" crc="3939489907" ref="index:sobre:contato"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sobre:contato"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:sobre:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:sobre:contato"/>
+    <file name="webpro.js" crc="3856315280" ref="index:sobre:contato"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:sobre:contato"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:sobre:contato"/>
+    <file name="require.js" crc="4177726516" ref="index:sobre:contato"/>
+    <file name="form_check.php" crc="4108222811" ref="contato"/>
+    <file name="form_throttle.php" crc="503802655" ref="contato"/>
+    <file name="form_process.php" crc="260214869" ref="contato"/>
+    <file name="form-u20706.php" crc="4213710895" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="324018193" ref="index"/>
+    <file name="black backround.png" crc="169982912" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7642-8.png" crc="502525344" ref="index:sobre:contato"/>
+    <file name="u7642-8_2x.png" crc="467282058" ref="index:sobre:contato"/>
+    <file name="u22610-4.png" crc="4082088335" ref="index:sobre:contato"/>
+    <file name="u22610-4_2x.png" crc="257246468" ref="index:sobre:contato"/>
+    <file name="logotipo250x100.png" crc="466916971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo_2x.png" crc="4123966939" seo="true" ref="index:sobre:contato">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="motion-background-(4).gif" crc="3805182972" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png.png" crc="3816281680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png_2x.png" crc="4257620514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gray backround.png" crc="4182612011" ref="index:sobre:contato">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="gray backround_2x.png" crc="453880654" ref="index:sobre:contato">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="black backround2.png" crc="4147084548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black backround_2x.png" crc="169982912" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo200x80.png" crc="93896497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo200x80_2x.png" crc="3820105319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png390x391.png" crc="3759309083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png390x391_2x.png" crc="322943254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ícones-do-menu-sanduíche_poster_u3929.png" crc="54791841" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ícones-do-menu-x.svg" crc="4202605742" ref="index"/>
+    <file name="ícones-do-menu-x_poster_u22886.png" crc="235093314" ref="index"/>
+    <file name="logotipo220x88.png" crc="350633403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo220x88_2x.png" crc="4123966939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png350x350.png" crc="512718408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png350x350_2x.png" crc="4099089045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png312x312.png" crc="317185859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png312x312_2x.png" crc="327035972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion-background-(4)_2x.gif" crc="3805182972" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png200x201.png" crc="3824366332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png200x201_2x.png" crc="4004266874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo150x60.png" crc="4223846764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo150x60_2x.png" crc="321763725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png200x200.png" crc="3824366332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-png200x200_2x.png" crc="4004266874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo135x54.png" crc="3904548941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo135x54_2x.png" crc="3803725083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sobre:contato"/>
+    <file name="logo-png135x135.png" crc="318301622" seo="true" ref="sobre">
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+    </file>
+    <file name="logo-png135x135_2x.png" crc="399768616" seo="true" ref="sobre">
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+    </file>
+    <file name="logo-png100x100.png" crc="3928448049" seo="true" ref="sobre">
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+    </file>
+    <file name="logo-png100x100_2x.png" crc="3824366332" seo="true" ref="sobre">
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="124479759" seo="true" mt="1760918875311" redirect="true"/>
+  <file name="sobre.html" crc="356017723" seo="true" mt="1760918875311" redirect="true"/>
+  <file name="contato.html" crc="254166682" seo="true" mt="1760918875311" redirect="true"/>
+</manifest>
