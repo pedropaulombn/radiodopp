@@ -1,0 +1,106 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiodopp.com" resolutions="1x,2x" timestamp="1780975748985">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="r_dio-do-p_-p_-play.css" crc="3861145329" ref="rádio-do-pê-pê-play"/>
+    <file name="nomq_r_dio-do-p_-p_-play.css" crc="4200719871" ref="rádio-do-pê-pê-play"/>
+    <file name="r_dio-do-p_-p_-stop.css" crc="475331944" ref="rádio-do-pê-pê-stop"/>
+    <file name="nomq_r_dio-do-p_-p_-stop.css" crc="225668913" ref="rádio-do-pê-pê-stop"/>
+    <file name="index.css" crc="3915277650" ref="index"/>
+    <file name="nomq_index.css" crc="4119857096" ref="index"/>
+    <file name="r_dio-do-p_-p_-salda__o.css" crc="4164776784" ref="rádio-do-pê-pê-saldação"/>
+    <file name="nomq_r_dio-do-p_-p_-salda__o.css" crc="136765399" ref="rádio-do-pê-pê-saldação"/>
+  </folder>
+  <folder name="assets">
+    <folder name="saldação">
+      <folder name="media">
+        <file name="Saldação Rádio do Pê Pê.mp3" crc="3879002120" mt="1780780825000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1780780825000"/>
+      </folder>
+      <file name="transparent.png" crc="31046686" mt="1780780825000"/>
+      <file name="Saldação_edge.js" crc="4167738927" mt="1780780825000"/>
+      <file name="Saldação.html" crc="210895689" mt="1780780825000"/>
+    </folder>
+    <file name="bg-2.jpg" crc="4278842228" seo="true" mt="1780774022000"/>
+    <file name="bg.jpg" crc="4240616363" seo="true" mt="1780773704000"/>
+    <file name="favicon.png" crc="4247622115" seo="true" mt="1780773230000"/>
+    <file name="logo-rádio-do-pp-white.svg" crc="210199279" seo="true" mt="1780774163000"/>
+    <file name="logo-rádio-do-pp.svg" crc="4078378891" seo="true" mt="1780773434000"/>
+    <file name="mbn-media.svg" crc="269191951" seo="true" mt="1780774466000"/>
+    <file name="saldação-rádio-do-pê-pê.mp3" crc="3879002120" seo="true" mt="1780777291000"/>
+    <file name="saldação.html" crc="338135798" seo="true" mt="1780786952000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="museutils.js" crc="3939489907" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="whatinput.js" crc="86476730" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="museconfig.js" crc="128606099" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+    <file name="require.js" crc="4177726516" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="6857709" ref="index"/>
+    <file name="logo-rádio-do-pp-white.svg" crc="210199279" seo="true" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+    </file>
+    <file name="logo rádio do pp white_poster_.png" crc="342173844" ref="index"/>
+    <file name="mbn-media.svg" crc="269191951" seo="true" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+    </file>
+    <file name="mbn media_poster_.png" crc="248422128" ref="index"/>
+    <file name="bg 2.jpg" crc="4278842228" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+    </file>
+    <file name="bg 22.jpg" crc="414037642" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+    </file>
+    <file name="bg 2_2x.jpg" crc="4278842228" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rádio-do-pê-pê-stop" alt=""/>
+      <caption webpage="rádio-do-pê-pê-play" alt=""/>
+      <caption webpage="rádio-do-pê-pê-saldação" alt=""/>
+    </file>
+    <file name="bg 2800x533.jpg" crc="4236295951" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg 2800x533_2x.jpg" crc="4034588634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:rádio-do-pê-pê-saldação:rádio-do-pê-pê-play:rádio-do-pê-pê-stop"/>
+  </folder>
+  <file name="index.html" crc="420171799" seo="true" mt="1780975475875" redirect="true"/>
+  <file name="rádio-do-pê-pê-saldação.html" crc="447707332" seo="true" mt="1780975453861" redirect="true"/>
+  <file name="rádio-do-pê-pê-play.html" crc="3986573817" seo="true" mt="1780975566190" redirect="true"/>
+  <file name="rádio-do-pê-pê-stop.html" crc="3949572520" seo="true" mt="1780975074639" redirect="true"/>
+</manifest>
